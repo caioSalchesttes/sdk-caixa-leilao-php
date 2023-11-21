@@ -1,4 +1,4 @@
-# Manual da SDK CaixaLeilao
+# Manual da SDK CaixaLeilao - Laravel
 
 Este documento fornece uma visão geral e exemplos de uso da SDK `CaixaLeilao`.
 
