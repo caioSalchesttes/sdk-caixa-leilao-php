@@ -13,6 +13,7 @@ Este documento fornece uma visão geral e exemplos de uso da SDK `CaixaLeilao`.
 Para obter informações sobre cidades, utilize o método `cities()`. Exemplo:
 
 ```php
+use Caiosalchesttes\SdkCaixaLeilaoPhp\Facades\CaixaLeilao;
 CaixaLeilao::cities()->get("SP");
 ```
 
@@ -22,6 +23,7 @@ Este método retorna informações sobre a cidade especificada, neste caso, São
 Para buscar propriedades com base no código da cidade, utilize o método properties(). Exemplo:
 
 ```php
+use Caiosalchesttes\SdkCaixaLeilaoPhp\Facades\CaixaLeilao;
 CaixaLeilao::properties()->get("Codigo da cidade");
 ```
 
@@ -32,6 +34,7 @@ Substitua "Codigo da cidade" pelo código específico da cidade para obter infor
 Para obter detalhes específicos de um imóvel, use o método details(). Exemplo:
 
 ```php
+use Caiosalchesttes\SdkCaixaLeilaoPhp\Facades\CaixaLeilao;
 CaixaLeilao::details()->find("Codigo do imovel");
 ```
 
