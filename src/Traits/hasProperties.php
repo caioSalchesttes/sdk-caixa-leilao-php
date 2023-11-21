@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Services\CaixaGov\Traits;
+namespace Caiosalchesttes\SdkCaixaLeilaoPhp\Traits;
 
-use App\Services\CaixaGov\Entities\Property;
+use Caiosalchesttes\SdkCaixaLeilaoPhp\Entities\Property;
 
 trait hasProperties
 {

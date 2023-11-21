@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Services\CaixaGov\Facades;
+namespace Caiosalchesttes\SdkCaixaLeilaoPhp\Facades;
 
-use App\Services\CaixaGov\CaixaGovService;
+use Caiosalchesttes\SdkCaixaLeilaoPhp\CaixaGovService;
 use Illuminate\Support\Facades\Facade;
 
 class CaixaLeilao extends Facade

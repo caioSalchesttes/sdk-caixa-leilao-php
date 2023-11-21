@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Services\CaixaGov\Entities;
+namespace Caiosalchesttes\SdkCaixaLeilaoPhp\Entities;
 
-use App\Services\CaixaGov\CaixaGovService;
+use Caiosalchesttes\SdkCaixaLeilaoPhp\CaixaGovService;
 use Illuminate\Support\Collection;
 
 class Property

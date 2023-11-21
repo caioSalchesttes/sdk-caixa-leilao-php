@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Services\CaixaGov;
+namespace Caiosalchesttes\SdkCaixaLeilaoPhp;
 
-use App\Services\CaixaGov\Traits\HasCities;
-use App\Services\CaixaGov\Traits\HasDetails;
-use App\Services\CaixaGov\Traits\hasProperties;
+use Caiosalchesttes\SdkCaixaLeilaoPhp\Traits\HasCities;
+use Caiosalchesttes\SdkCaixaLeilaoPhp\Traits\HasDetails;
+use Caiosalchesttes\SdkCaixaLeilaoPhp\Traits\hasProperties;
 use Illuminate\Support\Facades\Http;
 
 class CaixaGovService

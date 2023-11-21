@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Services\CaixaGov\Traits;
+namespace Caiosalchesttes\SdkCaixaLeilaoPhp\Traits;
 
-use App\Services\CaixaGov\Entities\City;
-use App\Services\CaixaGov\Entities\Detail;
+use Caiosalchesttes\SdkCaixaLeilaoPhp\Entities\City;
+use Caiosalchesttes\SdkCaixaLeilaoPhp\Entities\Detail;
 
 trait HasDetails
 {
