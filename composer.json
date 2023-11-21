@@ -1,0 +1,16 @@
+{
+    "name": "caiosalchesttes/sdk-caixa-leilao-php",
+    "description": "Sdk para o leilao da caixa",
+    "autoload": {
+        "psr-4": {
+            "Caiosalchesttes\\SdkCaixaLeilaoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Caio .O",
+            "email": "caio.salchesttes@tray.net.br"
+        }
+    ],
+    "require": {}
+}
